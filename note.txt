@@ -1,0 +1,25 @@
+$ git add .
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb/WebCo                                                      ntent/script/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb/WebCo                                                      ntent/script/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb201706                                                      23/WebContent/script/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb201706                                                      23/WebContent/script/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb201803                                                      12/wordweb/WebContent/script/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/source_code/wordweb201803                                                      12/wordweb/WebContent/script/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/webapps/wordweb20170622/s                                                      cript/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/webapps/wordweb20170622/s                                                      cript/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/webapps/wordweb20170623/s                                                      cript/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in HistoryVersion/webapps/wordweb20170623/s                                                      cript/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in WebContent/script/jquery-1.7.2.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in WebContent/script/jquery-1.7.2.min.js.
+The file will have its original line endings in your working directory.
